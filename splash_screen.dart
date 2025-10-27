@@ -250,7 +250,6 @@ class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMix
                     ),
                   ),
                 ),
-
                 // Text with Animation - Right theke
                 SlideTransition(
                   position: _textSlide,
